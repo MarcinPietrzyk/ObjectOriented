@@ -6,4 +6,8 @@ public abstract class Animal {
     public Animal(int numberOfLimbs) {
         this.numberOfLimbs = numberOfLimbs;
     }
+
+    public Animal() {
+
+    }
 }

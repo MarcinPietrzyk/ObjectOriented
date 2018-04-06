@@ -10,6 +10,6 @@ public class Car extends Vehicle{
 
     public void startEngine(){
         super.startEngine();
-        System.out.print("Force driver to fasten seat belts.");
+        System.out.println("Force driver to fasten seat belts.");
     }
 }
